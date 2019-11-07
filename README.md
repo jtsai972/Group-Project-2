@@ -16,6 +16,9 @@
     <a href="https://github.com/Johnphtdo/Group-Project-2"><strong>Explore the docs »</strong></a>
     <br />
     <br />
+    <a href="hhttps://dashboard.heroku.com/apps/group-project-jtjdke/deploy/github"><strong>Heroku Demo »</strong></a>
+      <br />
+      <br />
     <a href="https://github.com/Johnphtdo/Group-Project-2/issues">Report Bug</a>
     ·
     <a href="https://github.com/Johnphtdo/Group-Project-2/issues">Request Feature</a>
