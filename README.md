@@ -9,16 +9,17 @@
 <br />
 <p align="center">
   <h3 align="center">SomeRecipes</h3>
+  <h4 align="center">(not to be confused with Allrecipes)</h4>
 
   <p align="center">
-    Recipes everywhere (not to be confused with Allrecipes)
+    Recipes everywhere
+    <br />
     <br />
     <a href="https://github.com/Johnphtdo/Group-Project-2"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
     <a href="https://group-project-jtjdke.herokuapp.com/"><strong>Heroku Demo »</strong></a>
-      <br />
-      <br />
+    <br />
+    <br />
     <a href="https://github.com/Johnphtdo/Group-Project-2/issues">Report Bug</a>
     ·
     <a href="https://github.com/Johnphtdo/Group-Project-2/issues">Request Feature</a>
